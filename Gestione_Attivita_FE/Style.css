@@ -1,0 +1,41 @@
+﻿.py-3 {
+    padding-bottom: 5rem;
+}
+.footer-copyright {
+    overflow: hidden;
+    color: #3c763d;
+    background-color: #dff0d8;
+}
+.page-footer {
+    position: relative;
+  
+}
+.textDecor {
+    border: 1px;
+    font: 20px INITIAL;
+    background-color: #fff;
+}
+.note {
+    text-align: center;
+    height: 80px;
+    background: -webkit-linear-gradient(left, #a1c2e6, #034892);
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+}
+
+.form-content {
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+
+.btnSubmit {
+    border: none;
+    border-radius: 1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #0062cc;
+    color: #fff;
+}
